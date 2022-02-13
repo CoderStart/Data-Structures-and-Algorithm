@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01动态数组/01动态数组.iml" filepath="$PROJECT_DIR$/01动态数组/01动态数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02链表/02链表.iml" filepath="$PROJECT_DIR$/02链表/02链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03栈/03栈.iml" filepath="$PROJECT_DIR$/03栈/03栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04队列/04队列.iml" filepath="$PROJECT_DIR$/04队列/04队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05二叉搜索树/05二叉搜索树.iml" filepath="$PROJECT_DIR$/05二叉搜索树/05二叉搜索树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06AVL树/06AVL树.iml" filepath="$PROJECT_DIR$/06AVL树/06AVL树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07红黑树/07红黑树.iml" filepath="$PROJECT_DIR$/07红黑树/07红黑树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08集合/08集合.iml" filepath="$PROJECT_DIR$/08集合/08集合.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09用红黑树实现映射/09用红黑树实现映射.iml" filepath="$PROJECT_DIR$/09用红黑树实现映射/09用红黑树实现映射.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10哈希表/10哈希表.iml" filepath="$PROJECT_DIR$/10哈希表/10哈希表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11二叉堆/11二叉堆.iml" filepath="$PROJECT_DIR$/11二叉堆/11二叉堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12优先级队列/12优先级队列.iml" filepath="$PROJECT_DIR$/12优先级队列/12优先级队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13字典树/13字典树.iml" filepath="$PROJECT_DIR$/13字典树/13字典树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14排序/14排序.iml" filepath="$PROJECT_DIR$/14排序/14排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15并查集/15并查集.iml" filepath="$PROJECT_DIR$/15并查集/15并查集.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures and Algorithm.iml" filepath="$PROJECT_DIR$/Data Structures and Algorithm.iml" />
+    </modules>
+  </component>
+</project>
